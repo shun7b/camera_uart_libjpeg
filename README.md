@@ -1,4 +1,4 @@
-OV7670 に映った映像をUARTでPCに送りjpegにした。<br>
+OV7670 に映った映像をUARTでPCに送り640*480picelのjpegにした。<br>
 使ったFPGAボードDE0cv<br>
 pinのアサインはqsf参照<br>
 C言語でttyS3はCOM3である。(WSL1の場合)<br>
